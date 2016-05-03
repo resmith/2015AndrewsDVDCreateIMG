@@ -4,10 +4,10 @@
 video format=720
 background color=64;64;64;
 distort images=false
-number of slides=27
+number of slides=14
 
 [slide 1]
-filename=/media/data/AndrewsDVD/Andrews_school_pic.jpg
+filename=/home/robert/Meteor/createIMG/picsStandard/Andrews_school_pic.jpg
 angle=0
 duration=5
 transition_id=40
@@ -23,7 +23,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 2]
-filename=/media/data/AndrewsDVD/Bald_eagle_by_SilentBreeze.jpg
+filename=/home/robert/Meteor/createIMG/picsStandard/Bald_eagle_by_SilentBreeze.jpg
 angle=0
 duration=7
 transition_id=40
@@ -39,7 +39,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 3]
-filename=/media/data/AndrewsDVD/Ladder_to_Heavens_7695673_m.jpg
+filename=/home/robert/Meteor/createIMG/picsStandard/Ladder_to_Heavens_7695673_m.jpg
 angle=0
 duration=7
 transition_id=40
@@ -55,7 +55,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 4]
-filename=/media/data/AndrewsDVD/TeacherPics/Strickland.jpg
+filename=/home/robert/Meteor/createIMG/picsStandard/TeacherPics/Strickland.jpg
 angle=0
 duration=4
 transition_id=28
@@ -71,7 +71,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 5]
-filename=/media/data/AndrewsDVD/TeacherPics/Strickland.jpg
+filename=/home/robert/Meteor/createIMG/picsStandard/TeacherPics/Strickland.jpg
 angle=0
 duration=3
 transition_id=40
@@ -87,7 +87,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 6]
-filename=/media/data/AndrewsDVD/TeacherPics/5thGrade-Sign.JPG
+filename=/home/robert/Meteor/createIMG/picsStandard/TeacherPics/5thGrade-Sign.JPG
 angle=0
 duration=2
 transition_id=40
@@ -103,7 +103,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 7]
-filename=/media/data/AndrewsDVD/ROCK_by_serkanturac.jpg
+filename=/home/robert/Meteor/createIMG/picsStandard/ROCK_by_serkanturac.jpg
 angle=0
 duration=3
 transition_id=40

@@ -74,8 +74,9 @@ function writeConvertJsonToIMG(data, output, errorFile) {
     slideNumber += 1
     babyPic = jsonObj.BabyPicture;
     if (babyPic) {
-    var result = babyPic.match(regex);
-    var babyPicName = result[2];	// result[1] is the path
+      var result = babyPic.match(regex);
+      var babyPicName = result[2];	// result[1] is the path
+      babyPicName = '/home/robert/Meteor/createIMG/picsStudents/' + babyPicName;
     } else {
     	var babyPicName = ""
     };
@@ -92,8 +93,9 @@ function writeConvertJsonToIMG(data, output, errorFile) {
     slideNumber += 1    
     currentPic = jsonObj.CurrentPicture;
     if (currentPic) {
-    var result = currentPic.match(regex);
-    var currentPicName = result[2];	// result[1] is the path
+      var result = currentPic.match(regex);
+      var currentPicName = result[2];	// result[1] is the path
+      currentPicName = '/home/robert/Meteor/createIMG/picsStudents/' + currentPicName;
     } else {
     	var currentPicName = ""
     };
