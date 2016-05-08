@@ -4,10 +4,10 @@
 video format=720
 background color=64;64;64;
 distort images=false
-number of slides=14
+number of slides=268
 
 [slide 1]
-filename=/home/robert/Meteor/createIMG/picsStandard/Andrews_school_pic.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Andrews_school_pic.jpg
 angle=0
 duration=5
 transition_id=40
@@ -23,13 +23,13 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 2]
-filename=/home/robert/Meteor/createIMG/picsStandard/Bald_eagle_by_SilentBreeze.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Bald_eagle_by_SilentBreeze.jpg
 angle=0
 duration=7
 transition_id=40
 speed=4
 no_points=0
-text=5th Grade Class - 2012\n"Soaring with Pride"
+text=5th Grade Class - 2016\n"Soaring with Pride"
 anim id=3
 anim duration=4
 text pos=1
@@ -39,7 +39,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 3]
-filename=/home/robert/Meteor/createIMG/picsStandard/Ladder_to_Heavens_7695673_m.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Ladder_to_Heavens_7695673_m.jpg
 angle=0
 duration=7
 transition_id=40
@@ -55,7 +55,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 4]
-filename=/home/robert/Meteor/createIMG/picsStandard/TeacherPics/Strickland.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Strickland.jpg
 angle=0
 duration=4
 transition_id=28
@@ -71,7 +71,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 5]
-filename=/home/robert/Meteor/createIMG/picsStandard/TeacherPics/Strickland.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Strickland.jpg
 angle=0
 duration=3
 transition_id=40
@@ -87,7 +87,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 6]
-filename=/home/robert/Meteor/createIMG/picsStandard/TeacherPics/5thGrade-Sign.JPG
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/5thGradeSign.jpg
 angle=0
 duration=2
 transition_id=40
@@ -103,7 +103,7 @@ font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
 [slide 7]
-filename=/home/robert/Meteor/createIMG/picsStandard/ROCK_by_serkanturac.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/ROCK_by_serkanturac.jpg
 angle=0
 duration=3
 transition_id=40
@@ -118,12 +118,12 @@ font=Sans 32
 font color=1;1;1;1;
 font bgcolor=0;0;0;1;[slide 7]
 gradient=0
-filename=
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Aadit_Baby_Pic_1461977399802.jpg
 angle=0
 duration=2
 speed=1
 no_points=0
-text=   When Nirjara grows up gender ...
+text=   When Aadit grows up gender ...
 transition_id=71
 anim id=3
 anim duration=1
@@ -132,12 +132,12 @@ placing=0
 
 [slide 8]
 gradient=0
-filename=
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Aadit_2016_pic_1461977399799.jpg
 angle=0
 duration=3
 speed=4
 no_points=0
-text=wants to be a Comicbook/Manga illustrator
+text=wants to be a Basketball Player
 transition_id=20
 anim id=2
 anim duration=1
@@ -149,12 +149,12 @@ font bgcolor=0;0;0;1;
 
 [slide 9]
 gradient=0
-filename=/home/robert/Meteor/createIMG/picsStudentsimage_1461265947953.jpeg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/baby_picture_1462037464714.jpg
 angle=0
 duration=2
 speed=1
 no_points=0
-text=   When Malhaar grows up gender ...
+text=   When Aarya grows up gender ...
 transition_id=71
 anim id=3
 anim duration=1
@@ -163,12 +163,12 @@ placing=0
 
 [slide 10]
 gradient=0
-filename=/home/robert/Meteor/createIMG/picsStudents/image_1461265947937.jpeg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/5th_Grade_1462037464638.jpg
 angle=0
 duration=3
 speed=4
 no_points=0
-text=wants to be a undefined
+text=wants to be a Software Engineer
 transition_id=20
 anim id=2
 anim duration=1
@@ -180,7 +180,1371 @@ font bgcolor=0;0;0;1;
 
 [slide 11]
 gradient=0
-filename=/home/robert/Meteor/createIMG/picsStudents133_3319_1461167374072.JPG
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Abby_baby_graduation_pic_1462128084197.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Abby grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 12]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/6sLELhdnHruCXZnZM/edit-data
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Speech Pathologist and Author
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 13]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_1864_1462155026865.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ahmad grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 14]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG-20160501-WA0001_1462155026861.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 15]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Baby_picture_1462059050060.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Akkshan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 16]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Current_1462059050056.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Director/ Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 17]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC02542_1462245324306.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Akshata grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 18]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_1781_-_final_1462245324303.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Scientist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 19]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Alena_baby_1462502430078.png
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Alena grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 20]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Alena_current_1462502430076.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a doctor or software engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 21]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Ali_Khan__Baby_1462651212637.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ali grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 22]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Ali_Khan__Current_1462651212631.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a electrical engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 23]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0627_1462070440499.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Alice grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 24]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/iphoneHenry20160403_776_1462070440496.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Banker
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 25]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Amal_Gunde_Baby_Picture_1462251244651.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Amal grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 26]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Amal_Gunde_Latest_Pic_1462251244648.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Neurosurgeon
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 27]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Ameya_Khond_Baby_pic2_1461767137291.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ameya grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 28]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/ameya_current_1461767137288.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a pediatrician
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 29]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Apr_26,_2016_7-10-08_PM_1461716460224.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ananya grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 30]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/picture_1461716460221.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a I.T Consultant
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 31]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG017_1462041229089.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Aneisha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 32]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG018_1462041229085.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 33]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Anika_Damle_Baby_1462236395534.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Anika grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 34]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Anika_Damle_1462236395531.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 35]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC03865_1462363612011.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Aniketh grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 36]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/(905)_1462363612007.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Football Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 37]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Anirudh_and_flowers_1462248449502.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Anirudh grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 38]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FullSizeRender(1)_1462248449442.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Software Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 39]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Anirudh_Baby_1462121024365.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Anirudh grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 40]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Anirudh_Current_1462121024362.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 41]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/anjali_portrait_1462074458920.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Anjali grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 42]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/lifetouch_20160421181303_1462074458917.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 43]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_1212_1462141451211.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Anjani grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 44]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160417_145952_1462141451205.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Architect
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 45]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0259_1462481304052.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ankit grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 46]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_7312_1462481304042.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 47]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Annalise_Baby_1462657348276.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Annalise grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 48]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Annalise_Current2_1462657348273.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a surgeon
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 49]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462203381156.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Apurva grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 50]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462203381152.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor,artist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 51]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/baby_1462201153094.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Arav grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 52]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/arav_1462201153091.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 53]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/AP Boy_1462487913196.png
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Arjun grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 54]
+gradient=0
+filename=
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 55]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Asia_Jackson_Baby_Pic_1462404579362.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Asia grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 56]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Asia_Jackson_Current_Pic_1462404579356.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a fashion designer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 57]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/2007_0412Image0218_1462137445559.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ava grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 58]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_3402_1462137445556.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Veterinarian
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 59]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG-20111226-00146_1462592831390.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Azfar grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 60]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0108_1462592831384.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Computer Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 61]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Brennan-Baby_1461615975367.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Brennan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 62]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Brennan1_1461615975363.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a NBA Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 63]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DCP_2065_1462158277188.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Brian grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 64]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_1311_1462158277185.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Businessman
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 65]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/BabyBrian_9th_month_(301)_1_1462128584370.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Brian grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 66]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/AX8A7888_1462128584367.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a NBA Player or Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 67]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/New_Doc_13_1_1461346388380.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Carl grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 68]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/New_Doc_14_1_1_1461346388377.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Video Game Engineer/Football Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 69]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image005_1462113971993.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Cecille grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 70]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image004_1462113971989.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Veterinarian
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 71]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/charlotte_before_graduation_1461895745972.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Charlotte grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 72]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/charlotte_current_graduation_1461895745968.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a interior designer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 73]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Baby_Picture_1462036499190.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Dalbert grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 74]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSCN2716_1462036499185.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 75]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/D_baby_1462227659884.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Dalton grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 76]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/D_current_1462227659881.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Chemical Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 77]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Dane_Checkon_Baby_photo_1462069549591.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Dane grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 78]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Dane_Checkon_current_photo_1462069549588.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Soilder
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 79]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Daniel Lee_Baby_1462651548883.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Daniel grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 80]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Daniel Lee_Current_1462651548880.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a robot engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 81]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/David_Sanchez_(Baby_Pic)_1462315335702.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When David grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 82]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/David_Sanchez_(Present_Pic)_1462315335699.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Architect
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 83]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FB_IMG_1462312277134_1462494356848.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Dwijan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 84]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/14624943179181680960784_1462494356812.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 85]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Emily_Beret2_1462155479608.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Emily grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 86]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Emily_Current_1462155479521.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Zoologist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 87]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Emma-42_1462138796139.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Emma grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 88]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/9McHAigTo6fdEYojD/edit-data
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a artist or interior designer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 89]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462246736807.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Fardis grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 90]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462246736804.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Scientist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 91]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FIONA_BABY_PIC_1462221414602.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Fiona grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 92]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FIONA_pic_2015_1462221414599.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Pediatrician
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 93]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Haniyyah_Zia_Baby_1462160422839.png
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Haniyyah grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 94]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/vDN82Ef857vSfgZiY/edit-data
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Optometrist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 95]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/BabyIfrah1_1462368573872.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ifrah grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 96]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Ifrah_1462368573866.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Writer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 97]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/irisbaby_1462128582570.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Iris grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 98]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0948_1462128582566.PNG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 99]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_19_1461514555146.jpeg
 angle=0
 duration=2
 speed=1
@@ -192,9 +1556,9 @@ anim duration=1
 text pos=0
 placing=0
 
-[slide 12]
+[slide 100]
 gradient=0
-filename=/home/robert/Meteor/createIMG/picsStudents/Izzy black dress pic_1461167374069.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_20_1461514555143.jpeg
 angle=0
 duration=3
 speed=4
@@ -209,23 +1573,2596 @@ font=Sans 22
 font color=1;1;1;1;
 font bgcolor=0;0;0;1;
 
-[slide 13]
+[slide 101]
 gradient=0
-filename=/home/robert/Meteor/createIMG/picsStudentsMeadowdale beach_1461188455844.JPG
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0471_1461503850633.JPG
 angle=0
 duration=2
 speed=1
 no_points=0
-text=   When Zachary grows up gender ...
+text=   When Isabella grows up gender ...
 transition_id=71
 anim id=3
 anim duration=1
 text pos=0
 placing=0
 
-[slide 14]
+[slide 102]
 gradient=0
-filename=/home/robert/Meteor/createIMG/picsStudents/Zach 5th grade_1461188454971.jpg
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Praneel_1461503850631.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Teacher
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 103]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/133_3319_1461167374072.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Isabella grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 104]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Izzy_black_dress_pic_1461167374069.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Teacher
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 105]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Meadowdale_beach_1461188455844.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Isabella grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 106]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Zach_5th_grade_1461188454971.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Teacher
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 107]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Ishu_baby_1461902819387.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ishita grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 108]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/ishu_big_1461902819385.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Astronomer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 109]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_Pic0002_1461937844514.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jaclyn grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 110]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_Pic0003_1461937844421.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Chef
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 111]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FB_IMG_1461182393198_1461714710647.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jaden grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 112]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FB_IMG_1461182358713_1461714710645.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Chemist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 113]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Jamie Crop Easter 2016_1462202752913.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When James grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 114]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/James 8-25-08_1462202752910.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 115]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/JANE_2C_1461947673547.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jane grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 116]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_5149_1461947673542.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a I want to be a zoologist when I grow up.
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 117]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Jay Jhamb_Baby_1462651838584.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jay grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 118]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Jay Jhamb_Current_1462651838581.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a entrepreneur
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 119]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1461875781392.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jennifer grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 120]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1461875781388.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Baker
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 121]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/jini3_1462126704084.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jinan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 122]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/jQenqb64qS9Q239qp/edit-data
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Author
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 123]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/KD2W0888_1461879234072.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Jiwoo grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 124]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC_0016_1461879234069.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 125]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Joshua_Carroll_Baby_Pic_1462222318469.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Joshua grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 126]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Joshua_Carroll_5th_Grade_1462222318466.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Professional Soccer Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 127]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/joshuajibaby_1462284813986.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Joshua grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 128]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/joshuaji_1462284813979.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a veterinarian
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 129]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0823_1462155958091.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Joshua grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 130]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0824_1462155958088.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Firefighter
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 131]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_20160430_1462024234660.png
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Justin grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 132]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_20160430_(2)_1462024234658.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a N.B.A Superstar
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 133]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/karasmithbaby_1461792425187.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Kara grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 134]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/karasmithnow_1461792425184.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a An Actress
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 135]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/102_1063_1462230903593.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Karthik grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 136]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_4839_1462230903591.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Aerospace engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 137]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSCN2279_1461715613426.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Katherine grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 138]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_3801_1461715613423.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Business Management
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 139]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0369_1462410344696.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Katie grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 140]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_20151028_073126627_1462410344692.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Teacher
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 141]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/KedeBaby_1462383841588.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Kede grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 142]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/01ccc7766ca96e4874809ab4f49a63bcf37dbc5f51_00001_1462383841584.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a A biologist, a doctor and a video game animator
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 143]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/keran6m_1462157811197.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Keran grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 144]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/kerannow_1462157811195.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a astronaut
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 145]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FullSizeRender_1462318358749.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Kyle grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 146]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSCF1532 (2)_1462318358745.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Military
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 147]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462322859319.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Kylee grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 148]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462322859315.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a NASA Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 149]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/madibaby_1462136598167.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Madilyn grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 150]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/5th_1462136598164.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Basketball Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 151]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462224636032.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Mahak grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 152]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462224636027.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Neuro surgeon
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 153]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160502_210442_1462242049722.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Maira grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 154]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20151227_143859_1462242049711.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Professional soccer player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 155]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462231052339.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Malhaar grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 156]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462231052336.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Artist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 157]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Mansi_Baby_Photo_1462080243905.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Mansi grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 158]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Mansi_Grown_Photo_1462080243902.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Animation Specialist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 159]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/RIMG0049_1462149739198.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Mark grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 160]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/ch2_1462149739195.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a A Surgeon
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 161]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FB_IMG_1462143751653_resized_1_(2)_1462146362080.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Matteo Nylian grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 162]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/matoeo_1_1462146362077.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Aero space engineer or astronomer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 163]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Matthew_young_1462238605008.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Matthew grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 164]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Matthew_Present_1462238605005.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 165]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Michelle_2_1462327530408.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Michelle grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 166]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0410_1462327530406.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 167]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/100_0428_0043_1462338271819.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Nathan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 168]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FullSizeRender (4)_1462338271816.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Scientist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 169]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FB_IMG_1457015333538_1462322826055.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Nathan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 170]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160503_194302_1462322826048.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Restaurateur
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 171]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Nguyen_Luong-Baby_1461897793765.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Nguyen grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 172]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Nguyen_Luong-present_1461897793763.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 173]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/iZFJHsRWEKz8dWzit/edit-data
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Nirjara grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 174]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/iZFJHsRWEKz8dWzit/edit-data
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Comicbook/Manga illustrator
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 175]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2065_1462332676448.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Nora grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 176]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/nora2_1462332676446.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Teacher
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 177]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC01445_1462134278611.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Parth grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 178]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/www.rlives.link/resmith/andrews-5th-grade-dvd/template/F3xfvSR9cvoheaKEt/edit-data
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a IT Professional
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 179]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Preston VanderLight_Baby Picture_1462155294648.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Preston grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 180]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Preston VanderLight_Now_May2016_1462155294497.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Professional Soccer Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 181]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/BabyR_1462155812687.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rachel grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 182]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/5thR_1462155812685.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Veterinarian
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 183]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/._raghavbaby_1462155882166.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Raghav - NEED PICTURES grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 184]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/._raghavnow_1462155882164.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Quantum Physicist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 185]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Raghunath_027_1462138425344.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Raghu grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 186]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/FullSizeRender_(2)_1462138425309.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Professional Sports Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 187]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Raksha_Rajeev_1462236438029.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Raksha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 188]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Raksha_Rajeev__Grownup_1462236438026.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 189]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462148571777.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Raul grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 190]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462148571774.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a undefined
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 191]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_9725_1462286669905.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rayan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 192]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_9880_1462286669851.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Author
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 193]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Rishab_1462234605063.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rishab grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 194]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160313_161203_1462234605055.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 195]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSCF0013_1462243781389.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rishabh grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 196]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/_DSC6905_small_1462243781378.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Soccer Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 197]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC01439 (1)_1462243562037.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rishi grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 198]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/WP_20151224_09_33_08_Pro_1462243562034.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Software Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 199]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0777_1462155269114.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rishika grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 200]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2774_1462155269111.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Vet
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 201]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Rithi_baby_pic_1462201508588.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Rithi grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 202]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/5thgrade_1462201508462.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Veterinarian
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 203]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/RuhikaPatraBabyPicture_1461636471737.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ruhika grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 204]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/RuhikaPatraCurrentPicture_1461636471734.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Business Women/Entrepreneur
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 205]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/ryan1b_1462131405093.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Ryan grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 206]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Ryan_current1_1462131405089.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a NBA player or Software Developer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 207]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_3554_1462158360505.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sai Vishal Vaibav grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 208]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2172_1462158360499.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Scientist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 209]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/img05012016_017_1462164458926.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Samantha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 210]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20151220_141831_1462164458923.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Writer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 211]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/103_0345_(2)_1462059337119.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sareen grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 212]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC_0559_(2)_1462059337116.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 213]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Sathvik_baby_1462415311459.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sathvik grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 214]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Sathvik_current_1462415311380.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Mechanical Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 215]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Shane_1c_1461808955391.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Shane grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 216]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Shane_2c_1461808955385.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Inventor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 217]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/200603_Shrey_(9-12_months)_0071_1462142570770.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Shrey grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 218]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/2016-01-04_00.42.37_1462142570767.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Basketball Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 219]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462226257414.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Shreyas grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 220]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462226257411.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Cook
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 221]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Shritha-Baby_1462334793168.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Shritha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 222]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Shritha-Current_1462334793165.PNG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Nurse Practitioner
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 223]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Simone_5_months_1461766100387.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Simone grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 224]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Simone_at_Pirlo's_game_1461766100385.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Soccer player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 225]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160503_085149_1462284814498.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Snigdha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 226]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160503_090801_1462284814495.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a A Musician
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 227]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Scan_1462054814099.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sohil grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 228]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_4215_1462054814093.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Physician
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 229]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1461620922578.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sophia grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 230]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1461620922513.jpeg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a WNBA player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 231]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Lucky's_Baby_Photo_1461555322965.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sreeja grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 232]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20160402_145729_(1)_1461555322897.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 233]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/SriRam_112005_1462240640467.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sriram grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 234]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0435_1462240640464.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Cop
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 235]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2942_1462242122707.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sriya grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 236]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/ch1_1462242122704.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Journalist/Fashion Journalist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 237]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG020_(2)_1462118823016.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Srjana grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 238]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_4400_1462118823014.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Journalist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 239]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/picture2_1462050567293.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Stephen grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 240]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20150816_034924_1462050567289.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a software engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 241]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2770_1461551760693.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Suhita grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 242]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2771_1461551760690.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Doctor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 243]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/suma2_1462144246199.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Suma grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 244]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/suma1_1462144246194.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Architect
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 245]
+gradient=0
+filename=
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Sungyoon grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 246]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/20151226_125547_HDR-2_1462467593895.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a lawyer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 247]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/tarunpicture04262016_0001_1461712997465.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Tarun grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 248]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/tarunpicture04262016_1461712997461.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a ENT Specalist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 249]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Nana's camera 073_1462369452646.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Trey grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 250]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/DSC_7856_1462369452644.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a NBA Basketball Player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 251]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Vance_Feuerbache_-_baby_picture_1461851358396.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Vance grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 252]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Vance_Feuerbache_-_current_picture_1461851358393.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a basketball player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 253]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/varsha8_1462123017778.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Varsha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 254]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/v1_1462123017773.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Artificial Intelligence Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 255]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/VarshaYeddula_Baby_1462212829124.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Varsha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 256]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/VarshaYeddula_Current_1462212829120.PNG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Want to be an Anesthesiologists.
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 257]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/untitled_1462402864811.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Vedha grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 258]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Vedha_now_1462402864808.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Entrepreneur
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 259]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Picture_002_1461896179673.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Victoria grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 260]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0766_1461896179670.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a pharmacist
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 261]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_0059_1462164029508.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Vrishin grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 262]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Vrishin_Venkatesh_Current_1462164029505.jpg
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Basket ball player
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 263]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462072638892.jpeg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When William grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 264]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/image_1462072638884.png
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Professor
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 265]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Yash_Kukrecha_1462140989569.jpg
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Yash grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 266]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/IMG_2115_1462140989566.JPG
+angle=0
+duration=3
+speed=4
+no_points=0
+text=wants to be a Engineer
+transition_id=20
+anim id=2
+anim duration=1
+text pos=2
+placing=0
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 267]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/027_27_1462246995586.JPG
+angle=0
+duration=2
+speed=1
+no_points=0
+text=   When Zach grows up gender ...
+transition_id=71
+anim id=3
+anim duration=1
+text pos=0
+placing=0
+
+[slide 268]
+gradient=0
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/Zach 5th Grade_1462246995580.JPG
 angle=0
 duration=3
 speed=4
@@ -242,5 +4179,5 @@ font bgcolor=0;0;0;1;
 
 [music]
 number=2
-music_1=/home/robert/Meteor/createIMG/music/10 - Higher.mp3
-music_2=/home/robert/Meteor/createIMG/music/01 - Price Tag.mp3
+music_1=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Music/01 - Roar.mp3
+music_2=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Music/05 - I Lived.mp3

@@ -1,0 +1,119 @@
+#Imagination 2.0 Slideshow Project - http://imagination.sf.net
+
+[slideshow settings]
+video format=720
+background color=64;64;64;
+distort images=false
+number of slides=276
+
+[slide 1]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Andrews_school_pic.jpg
+angle=0
+duration=5
+transition_id=40
+speed=4
+no_points=0
+text=Andrews Elementary
+anim id=3
+anim duration=4
+text pos=1
+placing=1
+font=Sans 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 2]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Bald_eagle_by_SilentBreeze.jpg
+angle=0
+duration=7
+transition_id=40
+speed=4
+no_points=0
+text=5th Grade Class - 2016\n"Soaring with Pride"
+anim id=3
+anim duration=4
+text pos=1
+placing=1
+font=Sans 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 3]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/Ladder_to_Heavens_7695673_m.jpg
+angle=0
+duration=7
+transition_id=40
+speed=4
+no_points=0
+text=Thanks to those\nwho help us reach\nnew heights!
+anim id=3
+anim duration=4
+text pos=4
+placing=1
+font=Sans 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 4]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/TeacherPics/Strickland.jpg
+angle=0
+duration=4
+transition_id=28
+speed=4
+no_points=0
+text=Thanks to Mrs. Strickland\nfor keeping Andrews\nrunning so smooth!
+anim id=3
+anim duration=1
+text pos=4
+placing=1
+font=Sans 22
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 5]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/TeacherPics/Strickland.jpg
+angle=0
+duration=3
+transition_id=40
+speed=4
+no_points=0
+text=Thanks to Vice Principal ???? for\n????!
+anim id=3
+anim duration=1
+text pos=2
+placing=1
+font=Sans 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 6]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/TeacherPics/5thGradeSign.jpg
+angle=0
+duration=2
+transition_id=40
+speed=4
+no_points=0
+text=
+anim id=3
+anim duration=1
+text pos=2
+placing=1
+font=Sans 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[slide 7]
+filename=/home/robert/Dropbox/_Startups/AndrewsDVD2016/Teachers/ROCK_by_serkanturac.jpg
+angle=0
+duration=3
+transition_id=40
+speed=1
+no_points=0
+text=Teachers Rock!
+anim id=3
+anim duration=1
+text pos=1
+placing=1
+font=Sans 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;

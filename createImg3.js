@@ -66,6 +66,7 @@ function writeDirect(data, output, errorFile) {
 function writeConvertJsonToIMG(data, output, errorFile) {
     var content = "";
     var regex = /^(.+\/)*(.+\..+)$/
+    var picFolder = "/home/robert/Dropbox/_Startups/AndrewsDVD2016/picsStudents/"
     // console.log("About to parse: " + data);  	
     jsonObj = JSON.parse(data);
 
@@ -76,10 +77,11 @@ function writeConvertJsonToIMG(data, output, errorFile) {
     if (babyPic) {
       var result = babyPic.match(regex);
       var babyPicName = result[2];	// result[1] is the path
-      babyPicName = '/home/robert/Meteor/createIMG/picsStudents/' + babyPicName;
+      babyPicName = picFolder + babyPicName;
     } else {
     	var babyPicName = ""
     };
+    babyPicName = babyPicName.replace(/%20/g, "_")
     firstName = jsonObj.StudentFirstName;
     lastName = jsonObj.StudentLastName
     teacher = jsonObj.Teacher;
@@ -95,10 +97,11 @@ function writeConvertJsonToIMG(data, output, errorFile) {
     if (currentPic) {
       var result = currentPic.match(regex);
       var currentPicName = result[2];	// result[1] is the path
-      currentPicName = '/home/robert/Meteor/createIMG/picsStudents/' + currentPicName;
+      currentPicName = picFolder + currentPicName;
     } else {
     	var currentPicName = ""
     };
+    currentPicName = currentPicName.replace(/%20/g, "_")
     profession = jsonObj.Whattheywanttobewhentheygrowup;
     content = slide2.replace(/LN2/, slideNumber);
     content = content.replace(/currentPic/, currentPicName);
@@ -129,7 +132,7 @@ function deleteIfExist(fileName) {
 // ******* THIS IS THE MAIN START *********
 //  Prep the variables
 // var inputFile = fs.createReadStream('test.json');
-var inputFileName = 'test.json';
+var inputFileName = 'input.json';
 var outputFileName = "output.img";
 var errorFileName = "errors.txt";
 var slide1 = "[slide LN]\ngradient=0\nfilename=babyPic\nangle=0\nduration=2\nspeed=1\nno_points=0\ntext=   When firstName grows up gender ...\ntransition_id=71\nanim id=3\nanim duration=1\ntext pos=0\nplacing=0\n\n"
